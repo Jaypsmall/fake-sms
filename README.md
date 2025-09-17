@@ -56,7 +56,6 @@
      2. Kali Linux
      3. Windows
      
-# Contact:
-    Telegram Group:- https://t.me/machine1337
+
      
 
